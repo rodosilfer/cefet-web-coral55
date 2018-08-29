@@ -28,6 +28,28 @@ Aqui estão os itens que precisam ser implementados:
   - Tipicamente colocamos `position: relative;` no elemento pai de um elemento
     com `position: absolute;` para servir de sistema de coordenadas.
 
+### Roteiro
+
+Minha sugestão é escolher cada parte da página para estilizar. Eu fiz na
+seguinte ordem:
+
+1. Estilização do recipiente geral da página (`#recipiente`) - [como ficou][passo1]
+1. Estilização do cabeçalho (`header`) - [como ficou][passo2]
+1. Estilização da seção lateral (`#lateral`) - [como ficou][passo3]
+   - Esta é a parte mais demorada da atividade prática
+   - Além de estilizar essa seção, também tirei `#cardapio` de baixo dela
+1. Estilização do cardápio (`#cardapio`) - [como ficou][passo4]
+1. Estilização do rodapé (`footer`) - [como ficou][passo5]
+1. Estilização do _ticket_ (`#ticket`) - [como ficou][passo6]
+
+[passo1]: https://github.com/fegemo/cefet-front-end-coral-55/raw/master/roteiro/passo1.png
+[passo2]: https://github.com/fegemo/cefet-front-end-coral-55/raw/master/roteiro/passo2.png
+[passo3]: https://github.com/fegemo/cefet-front-end-coral-55/raw/master/roteiro/passo3.png
+[passo4]: https://github.com/fegemo/cefet-front-end-coral-55/raw/master/roteiro/passo4.png
+[passo5]: https://github.com/fegemo/cefet-front-end-coral-55/raw/master/roteiro/passo5.png
+[passo6]: https://github.com/fegemo/cefet-front-end-coral-55/raw/master/roteiro/passo6.png
+
+
 ### <abbr title="Frequently Asked Questions">FAQ</abbr>
 
 - Para rotacionar um elemento no sentido horário:
