@@ -43,12 +43,12 @@ seguinte ordem:
 1. Estilização do rodapé (`footer`) - [como ficou][passo5]
 1. Estilização do _ticket_ (`#ticket`) - [como ficou][passo6]
 
-[passo1]: https://github.com/fegemo/cefet-web-coral-55/raw/gh-pages/roteiro/passo1.png
-[passo2]: https://github.com/fegemo/cefet-web-coral-55/raw/gh-pages/roteiro/passo2.png
-[passo3]: https://github.com/fegemo/cefet-web-coral-55/raw/gh-pages/roteiro/passo3.png
-[passo4]: https://github.com/fegemo/cefet-web-coral-55/raw/gh-pages/roteiro/passo4.png
-[passo5]: https://github.com/fegemo/cefet-web-coral-55/raw/gh-pages/roteiro/passo5.png
-[passo6]: https://github.com/fegemo/cefet-web-coral-55/raw/gh-pages/roteiro/passo6.png
+[passo1]: https://github.com/daniel-hasan/cefet-web-coral55/raw/gh-pages/roteiro/passo1.png
+[passo2]: https://github.com/daniel-hasan/cefet-web-coral55/raw/gh-pages/roteiro/passo2.png
+[passo3]: https://github.com/daniel-hasan/cefet-web-coral55/raw/gh-pages/roteiro/passo3.png
+[passo4]: https://github.com/daniel-hasan/cefet-web-coral55/raw/gh-pages/roteiro/passo4.png
+[passo5]: https://github.com/daniel-hasan/cefet-web-coral55/raw/gh-pages/roteiro/passo5.png
+[passo6]: https://github.com/daniel-hasan/cefet-web-coral55/raw/gh-pages/roteiro/passo6.png
 
 
 ### <abbr title="Frequently Asked Questions">FAQ</abbr>
