@@ -38,16 +38,17 @@ seguinte ordem:
 1. Estilização da seção lateral (`#lateral`) - [como ficou][passo3]
    - Esta é a parte mais demorada da atividade prática
    - Além de estilizar essa seção, também tirei `#cardapio` de baixo dela
+   - Deixe a lateral com `position` absolute e posicionado no topo e o `#recipiente` com position relative. Assim, defina o `height` como 100% para que ele ocupe 100% do recipiente (a altura de um elemento também é relacionado com seu ancestral não estático mais próximo).
 1. Estilização do cardápio (`#cardapio`) - [como ficou][passo4]
 1. Estilização do rodapé (`footer`) - [como ficou][passo5]
 1. Estilização do _ticket_ (`#ticket`) - [como ficou][passo6]
 
-[passo1]: https://github.com/fegemo/cefet-front-end-coral-55/raw/master/roteiro/passo1.png
-[passo2]: https://github.com/fegemo/cefet-front-end-coral-55/raw/master/roteiro/passo2.png
-[passo3]: https://github.com/fegemo/cefet-front-end-coral-55/raw/master/roteiro/passo3.png
-[passo4]: https://github.com/fegemo/cefet-front-end-coral-55/raw/master/roteiro/passo4.png
-[passo5]: https://github.com/fegemo/cefet-front-end-coral-55/raw/master/roteiro/passo5.png
-[passo6]: https://github.com/fegemo/cefet-front-end-coral-55/raw/master/roteiro/passo6.png
+[passo1]: https://github.com/fegemo/cefet-web-coral-55/raw/gh-pages/roteiro/passo1.png
+[passo2]: https://github.com/fegemo/cefet-web-coral-55/raw/gh-pages/roteiro/passo2.png
+[passo3]: https://github.com/fegemo/cefet-web-coral-55/raw/gh-pages/roteiro/passo3.png
+[passo4]: https://github.com/fegemo/cefet-web-coral-55/raw/gh-pages/roteiro/passo4.png
+[passo5]: https://github.com/fegemo/cefet-web-coral-55/raw/gh-pages/roteiro/passo5.png
+[passo6]: https://github.com/fegemo/cefet-web-coral-55/raw/gh-pages/roteiro/passo6.png
 
 
 ### <abbr title="Frequently Asked Questions">FAQ</abbr>
