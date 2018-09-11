@@ -1,2 +1,121 @@
 /* Importa o arquivo CSS que importa a fonte Ravie */
 @import "fonts/ravie.css";
+
+body {
+	margin: 0;
+}
+
+header {
+	text-align: center;
+}
+
+header h1{
+	margin: 0;
+	font-family: Ravie;
+	font-size: 36px;
+	color: #e90c0c;
+}
+
+header h2 {
+	font-family: 'Trebuchet MS';
+	font-size: 24px;
+	color: #333;
+	margin: 0;
+	margin-left: 200px;
+}
+
+header span {
+	color: #d027aa;
+}
+
+main {
+	background-image: linear-gradient(to bottom, #f6f1b2, #4599b2); 
+	width: 800px;
+	margin: 0 auto;
+
+}
+
+section {
+	width: 646px;
+	margin-left: 154px;
+	position: relative;
+}
+
+section h3:first-child {
+	margin-top: 0;
+}
+
+#lateral h2 {
+	position: relative;
+	transform: rotate(-90deg);
+	left: -400px;
+	bottom: 30px;
+	font-size: 48px;
+	color: #333;
+	font-weight: bold;
+}
+
+#cardapio {
+	line-height: 2em;
+	font-family: Verdana;
+	color: #333;
+	font-size: 14px;
+	background-color: rgba(255,255,255,0.2);
+	border: 1px solid #aac0ae;
+	padding: 25px;
+}
+
+#cardapio h2{
+	font-size: 18px;
+}
+
+#cardapio article span {
+	float: right;
+}
+
+#lateral {
+	height: 0;
+}
+
+#lateral img {
+	position: absolute;
+}
+
+#bolhas {
+	bottom: 0;
+	left: -112px;
+}
+
+#siri {
+	top: -100px;
+	left: -164px;
+}
+
+#peixe {
+	bottom: -125px;
+	left: -198px;
+
+}
+
+#ticket {
+	position: fixed;
+	left: -69px;
+	top: 295px;
+	transition: left 200ms ease-out;
+}
+
+#ticket:hover {
+	transition: left 200ms ease-out;
+	left: 0
+}
+
+
+
+footer img{
+	display: block;
+	margin: 46px 15px 25px auto;
+}
+
+footer {
+	padding-bottom: 15px;
+}
